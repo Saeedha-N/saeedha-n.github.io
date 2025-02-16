@@ -13,6 +13,6 @@ About Me
 ======
 - Final-year undergraduate in the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
 - Part-time AI Engineer (Intern) at [Pekoe](https://www.pekoe.ai/).
-- Cohort of MakHer: Capacity Building Training Program by [UN Women Sri Lanka](https://asiapacific.unwomen.org/en/countries/sri-lanka) and [The Makers](https://www.themakers.global/). 
+- Member of the MakHer Cohort: Capacity Building Training Program by [UN Women Sri Lanka](https://asiapacific.unwomen.org/en/countries/sri-lanka) and [The Makers](https://www.themakers.global/). 
 
 Take a look at the links above to learn more about me!
